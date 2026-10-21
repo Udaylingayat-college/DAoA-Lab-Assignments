@@ -6,7 +6,7 @@ Selected Relief Supplies:
 
 Item	Taken Weight	Utility	Fraction
 Medicine	20.00		200.00	1.00
-MedicalKit	25.00		250.00	1.00
+Milk powder	25.00		250.00	1.00
 Blanket	15.00		60.00	1.00
 Food	40.00		120.00	1.00
 
